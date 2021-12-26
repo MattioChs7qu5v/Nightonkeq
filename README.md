@@ -1,0 +1,2 @@
+# Nightonkeq
+Android SharedPreferences安全存储/AutoCompleteTextView使用/文件读写
